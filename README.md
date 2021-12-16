@@ -49,14 +49,17 @@ npm run serve
 <img width="304" alt="cart-2" src="https://user-images.githubusercontent.com/82100635/146410780-39711664-dac9-44ec-a170-71652a52eedf.png">
 </p>
 
+#### 6. Address page
+<p float="left">
+<img width="300" alt="address" src="https://user-images.githubusercontent.com/82100635/146412125-89d56325-ca2b-46d0-8184-54c3049da82c.png">
+<img width="297" alt="address-1" src="https://user-images.githubusercontent.com/82100635/146412139-833560a2-0e63-448c-9388-e38ee9f98f57.png">
+<img width="295" alt="address-2" src="https://user-images.githubusercontent.com/82100635/146412315-961811bf-5390-48e4-b05a-bf247061769c.png">
+</p>
 
-
-#### 6. Order page
+#### 7. Order page
 <p float="left">
 <img width="303" alt="order" src="https://user-images.githubusercontent.com/82100635/146411621-28fb80bf-d7ad-47f8-97e4-b86e28f0e4e2.png">
 <img width="299" alt="order-1" src="https://user-images.githubusercontent.com/82100635/146411625-f66273b8-d691-439c-ae8f-9e350b2c2dad.png">
 <img width="296" alt="order-2" src="https://user-images.githubusercontent.com/82100635/146411649-c9fdee54-9384-4d5a-804e-7cfbccbebdc2.png">
-<img width="294" alt="order-3" src="https://user-images.githubusercontent.com/82100635/146411662-36daded8-60fd-4796-812b-cc8927cd93fa.png">
-
-  
+<img width="294" alt="order-3" src="https://user-images.githubusercontent.com/82100635/146411662-36daded8-60fd-4796-812b-cc8927cd93fa.png"> 
 </p>
