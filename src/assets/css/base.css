@@ -1,0 +1,43 @@
+@import "./normalize.css";
+
+/* customise styles */
+:root {
+  --color-text: #666;
+  --color-highlight-text: #6bc488;
+  --color-tint: #437c56;
+  --color-background: #ffffff;
+  --font-size: 14px;
+  --line-height: 1.5;
+}
+
+/* all elements */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* forbid user from selecting texts or images */
+/* vw	Relative to 1% of the width of the viewport* */
+/* vh	Relative to 1% of the height of the viewport* */
+body {
+  user-select: none;
+  background-color: var(--color-background);
+  color: var(--color-text);
+  width: 100vw;
+}
+
+a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}

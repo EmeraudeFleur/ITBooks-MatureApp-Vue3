@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url("iconfont.ttf?t=1638795194676") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 28px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fenlei:before {
+  content: "\f00a6";
+}
+
+.icon-gouwuche:before {
+  content: "\e63f";
+}
+
+.icon-home:before {
+  content: "\e71b";
+}
+
+.icon-gerenzhongxin:before {
+  content: "\e7dd";
+}
