@@ -9,7 +9,7 @@ npm install
 ```
 npm run serve
 
-## App Preview screenshots
+#### App Preview screenshots
 ```
 
 <img width="306" alt="home" src="https://user-images.githubusercontent.com/82100635/146404126-0385e20d-ad6b-4289-aa60-ba0a7c6e3190.png">
