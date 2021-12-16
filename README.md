@@ -13,7 +13,6 @@ npm run serve
 ## App view screenshots
 
 ### 1. Home page
-#### you can scroll up and see more pages loading, click the arrow to go back to top, and click to see the book details.
 <p float="left">
 <img width="306" alt="home" src="https://user-images.githubusercontent.com/82100635/146408175-9ecc57b1-aba0-40e4-871b-28836c240942.png">
 <img width="304" alt="home-1" src="https://user-images.githubusercontent.com/82100635/146408190-3e658c74-cc64-4b4d-8204-cd8f41fbb2f6.png">
